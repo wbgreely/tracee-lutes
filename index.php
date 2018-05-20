@@ -14,7 +14,7 @@ header('Location: http://traceelutes.com/mobile');
 <meta name="Keywords" content="realtor, real estate, Bloomington Indiana, IN, homes for sale, house for sell, house for sale, sell house, buy house, relocate, relocation, new house, homebuying Bloomington Indiana, luxury home, expensive house, luxury house, home buying Bloomington Indiana, Brown County Indiana Real Estate, Indiana University Real Estate, real estate listings Bloomington Indiana, Bloomington, Brown County, Lake Monroe, Lake Lemon and Indiana University, Indiana, Real Estate Listings, Homes For Sale, Home Buying, Selling, Agent, Listings, MLS, Realty, Land, Residential, Property, House, Real Estate, Tracee Lutes, REALTOR®, NUMBER1EXPERT(S), Real Estate Agent, Broker, Relocating, Relocation, Local Information, Free Reports, Free Home Warranty, Monroe County, IN" />
 <meta name="description" content="Real Estate Bloomington Indiana Tracee Lutes RE/MAX Realtor"/>
 <style type="text/css">
-<!--
+
 body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	background-color: #FFFFFF;
@@ -167,7 +167,7 @@ a {
   font-size: 14px;
   color: #555555;
 }
--->
+
 </style>
 <script type="text/javascript" src="ScriptLibrary/jquery-latest.pack.js"></script>
 <script type="text/javascript">
@@ -365,31 +365,6 @@ function MM_swapImage() { //v3.0
                     <td>
                     <a href="https://www.youtube.com/channel/UCMZYil7Ujv6FaXk5oMsycsA" target="_blank" onmouseover="MM_swapImage('graphic','','images/lutes.youtube.channel.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/lutes.youtube.channel.jpg" alt="Connect with Tracee Lutes on YouTube" width="248" height="270" /></a>
                     </td>
-                  </tr>
-                </table></td>
-              </tr>
-            </table></td>
-            <td width="271" valign="top"><table width="265" border="0" cellspacing="0" cellpadding="4">
-              <tr>
-                <td align="center" bgcolor="#BF1E2D" style="color: #FFF">Meet Our Affiliate Agents</td>
-              </tr>
-              <tr>
-                <td align="center" bgcolor="#000000"><table width="223" border="0" cellspacing="4" cellpadding="4">
-                  <tr>
-                    <td width="100" bgcolor="#000000"><img src="images/vatche.small.jpg" width="100" height="100" /></td>
-                    <td width="95" bgcolor="#000000"><img src="images/papp.small.jpg" width="100" height="100" /></td>
-                  </tr>
-                  <tr>
-                    <td align="center" bgcolor="#000000"><a href="about.html#vatche">Vatche</a></td>
-                    <td align="center" bgcolor="#000000"><a href="about.html#michelle.papp">Michelle</a></td>
-                  </tr>
-                  <tr>
-                    <td bgcolor="#000000"><img src="images/miller.small.jpg" width="100" height="100" /></td>
-
-                  </tr>
-                  <tr>
-                    <td align="center" bgcolor="#000000"><a href="about.html#kate.miller">Kate</a></td>
-
                   </tr>
                 </table></td>
               </tr>
