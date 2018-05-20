@@ -13,6 +13,7 @@ header('Location: http://traceelutes.com/mobile');
 <title>Bloomington Indiana Real Estate • Tracee Lutes Realtor • Indiana University • Monroe County Indiana • Homes For Sale</title>
 <meta name="Keywords" content="realtor, real estate, Bloomington Indiana, IN, homes for sale, house for sell, house for sale, sell house, buy house, relocate, relocation, new house, homebuying Bloomington Indiana, luxury home, expensive house, luxury house, home buying Bloomington Indiana, Brown County Indiana Real Estate, Indiana University Real Estate, real estate listings Bloomington Indiana, Bloomington, Brown County, Lake Monroe, Lake Lemon and Indiana University, Indiana, Real Estate Listings, Homes For Sale, Home Buying, Selling, Agent, Listings, MLS, Realty, Land, Residential, Property, House, Real Estate, Tracee Lutes, REALTOR®, NUMBER1EXPERT(S), Real Estate Agent, Broker, Relocating, Relocation, Local Information, Free Reports, Free Home Warranty, Monroe County, IN" />
 <meta name="description" content="Real Estate Bloomington Indiana Tracee Lutes RE/MAX Realtor"/>
+
 <style type="text/css">
 
 body {
@@ -169,6 +170,9 @@ a {
 }
 
 </style>
+
+<link rel="stylesheet" type="text/css" href="Styles/styles.css">
+
 <script type="text/javascript" src="ScriptLibrary/jquery-latest.pack.js"></script>
 <script type="text/javascript">
 function MM_swapImgRestore() { //v3.0
@@ -231,11 +235,12 @@ function MM_swapImage() { //v3.0
         </table></td>
       </tr>
       <tr>
-        <td><table width="1098" border="0" cellspacing="2" cellpadding="4">
-          <tr>
-            <td width="170">
+        <td>
+          <table width="1098" border="0" cellspacing="2" cellpadding="4">
+          <tr class="navBar">
+            <td align="center">
               <div class="find-a-property-dropdown">
-                <a href="" onmouseover="MM_swapImage('properties','','images/propertyROLLOVER.png',1)" onmouseout="MM_swapImgRestore()"><img src="images/propertyBUTTON.png" alt="Search for a property Tracee Lutes realtor Bloomington Indiana" width="170" height="23" id="properties" /></a>
+                <a href=""/>FIND A PROPERTY</a>
 
                 <div class="find-a-property-dropdown__content">
                   <a class="find-a-property-dropdown__item" href="http://www.tlutes.remax-indiana.com/remaxin/index.asp?p=findahome.asp&amp;page=search&amp;selected=qck&amp;mode=N" target="_blank">
@@ -252,11 +257,10 @@ function MM_swapImage() { //v3.0
                 </div>
               </div>
             </td>
-            <td width="170" align="center"><a href="neighborhoods.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('neighborhoods','','images/neighborhoodsROLLOVER.png',1)"><img src="images/neighborhoodsBUTTON.png" alt="Learn more about Bloomington Indiana neighborhoods" width="170" height="23" id="neighborhoods" /></a></td>
-            <td width="210"><a href="distinctive.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('featured','','images/featured.button.png',1)"><img src="images/featured.button.png" alt="Browse Tracee Lute's featured properties" width="208" height="23" id="featured" /></a></td>
-            <td width="170"><a href="about.html#affiliate.agents" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('affiliates','','images/affiliatesROLLOVER.png',1)"><img src="images/affiliatesBUTTON.png" alt="Meet affiliated real estate agents with Tracee Lutes Bloomington Indiana realtor" width="170" height="23" id="affiliates" /></a></td>
-            <td width="170"><a href="about.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('lutes','','images/aboutROLLOVER.png',1)"><img src="images/aboutBUTTON.png" alt="Tracee Lutes Bloomington Indiana real estate broker" width="170" height="23" id="about.tracee.lutes" /></a></td>
-            <td width="170" align="right"><a href="contact.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact.tracee.lutes','','images/contactROLLOVER.png',1)"><img src="images/contactBUTTON.png" alt="Contact Tracee Lutes Bloomington Indiana real estate broker" width="170" height="23" id="contact.tracee.lutes" /></a></td>
+            <td align="center"><a href="neighborhoods.html">NEIGHBORHOODS</a></td>
+            <td align="center"><a href="distinctive.html" >DISTINCTIVE PROPERTIES</a></td>
+            <td align="center"><a href="about.html">TRACEE'S TEAM</a></td>
+            <td align="center"><a href="contact.html">CONTACT TRACEE</a></td>
           </tr>
         </table></td>
       </tr>
